@@ -12,10 +12,8 @@ client_scripts {
   'EntityZone.lua',
   'CircleZone.lua',
   'ComboZone.lua',
-  'creation/client/*.lua'
 }
 
 server_scripts {
-  'creation/server/*.lua',
-  'server.lua'
+  'server/server.lua'
 }
