@@ -7,7 +7,7 @@ description 'Define zones of different shapes and test whether a point is inside
 version '2.6.1-RedM'
 
 client_scripts {
-  'client/client.lua',
+  'client.lua',
   'BoxZone.lua',
   'EntityZone.lua',
   'CircleZone.lua',
